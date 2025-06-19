@@ -1,12 +1,32 @@
-Landing Page
+# 🚗 Landing Page - ParkingNow
 
-Video About the product
-Microsoft: [upc-pre-202401-si729-SW54-PARKINGNOW-aboutthe-product-sprint-3.mp4](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214214_upc_edu_pe/EX0H7x1gJI5JlTKaOcd14u4BJdk97lLMxbD8OUL2OXkj4A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=h9rMnB)
+Bienvenido al repositorio oficial de la **Landing Page** del proyecto **ParkingNow**, una solución moderna y eficiente para la gestión de estacionamientos.
 
-# Videos:
+## 🌐 Descripción
 
-Microsoft: [About the product](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202214214_upc_edu_pe/EX0H7x1gJI5JlTKaOcd14u4BJdk97lLMxbD8OUL2OXkj4A?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D&e=h9rMnB)
+Esta landing page tiene como objetivo presentar el producto ParkingNow de forma clara y visual, permitiendo a los usuarios conocer las funcionalidades del sistema, su propuesta de valor, y cómo acceder a la aplicación.
 
-Youtube: [About the product](upc-pre-202401-si729-SW54-PARKINGNOW-aboutthe-product-sprint-3%20.mp4)
+---
+## 🛠️ Tecnologías Utilizadas
 
-https://www.youtube.com/watch?v=6AdWWV9CrEE
+- **HTML5**: Estructura semántica de la página.
+- **CSS3 (Vanilla CSS)**: Estilos personalizados con diseño responsive y visual atractivo.
+- **JavaScript (JS)**: Comportamiento dinámico y funcionalidades básicas.
+- **i18n (Internacionalización)**: Archivos JSON para soporte multilenguaje (español, inglés).
+- **Visual Studio Code**: Editor principal para el desarrollo.
+
+
+
+## 👨‍💻 Desarrollado por
+
+Estudiantes de Ingeniería de Software – UPC  
+Repositorio oficial del curso **Desarrollo de Aplicaciones Móviles**.
+
+
+
+## 📬 Contacto
+
+¿Tienes dudas o sugerencias? Contáctanos a través de la sección de soporte en la app.
+
+
+© 2025 ParkingNow. Todos los derechos reservados.
