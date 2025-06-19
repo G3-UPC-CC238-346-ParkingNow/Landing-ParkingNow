@@ -105,5 +105,8 @@
         "visionTitle": "Vision of PARKINGNOW",
         "visionDescription": "Act as a link between drivers and owners, improving the parking experience with efficient technology.",
         "visionImage": "Vision Image"
-    }
-    
+    ,
+    "termsConditions": "Terms & Conditions",
+    "termsConditionsTitle": "Terms & Conditions",
+    "termsConditionsDesc": "Please read these terms before using ParkingNow. By using our platform, you agree to these terms."
+}

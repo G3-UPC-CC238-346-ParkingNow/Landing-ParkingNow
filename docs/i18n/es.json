@@ -104,5 +104,8 @@
     "missionImage": "Imagen de misión",
     "visionTitle": "Visión de PARKINGNOW",
     "visionDescription": "Actuar como un enlace entre conductores y propietarios, mejorando la experiencia de estacionamiento con tecnología eficiente.",
-    "visionImage": "Imagen de visión"
+    "visionImage": "Imagen de visión",
+    "termsAndConditions": "Términos y Condiciones",
+    "termsAndConditionsTitle": "Términos y Condiciones",
+    "termsAndConditionsDesc": "Lee estos términos antes de usar ParkingNow. Al utilizar nuestra plataforma, aceptas estos términos."
 }

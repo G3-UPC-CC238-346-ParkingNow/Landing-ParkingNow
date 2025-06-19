@@ -1,3 +1,9 @@
+.nav-wrapper {
+    /* No overrides here, just a placeholder for specificity if needed */
+}
+.sidenav-trigger {
+    display: none;
+}
 body {
     background-color: #ffffff;
     font-family: "Tinos", serif;
@@ -633,3 +639,124 @@ footer a:hover {
 }
 
 
+
+
+.btn-terminos {
+    color: #ffeb3b;
+    text-decoration: underline;
+    font-size: 0.95rem;
+    transition: color 0.3s ease-in-out;
+}
+
+.btn-terminos:hover {
+    color: #ffffff;
+}
+@media (max-width: 768px) {
+    nav.nav-wrapper {
+        flex-direction: column;
+        align-items: center;
+        padding: 10px;
+    }
+
+    nav.nav-wrapper .container {
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+    }
+
+    nav.nav-wrapper ul {
+        flex-direction: column;
+        align-items: center;
+        width: 100%;
+        padding: 0;
+        margin: 0;
+    }
+
+    nav.nav-wrapper ul li {
+        width: 100%;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+
+    .brand-logo {
+        font-size: 1.5rem;
+        text-align: center;
+        width: 100%;
+    }
+
+    .sidenav-trigger {
+        display: block;
+    }
+
+    nav.nav-wrapper ul li a,
+    nav.nav-wrapper ul li button {
+        display: inline-block;
+        width: 80%;
+        max-width: 240px;
+        text-align: center;
+        margin: 0 auto;
+    }
+}
+@media (max-width: 768px) {
+    #index-banner {
+        padding: 40px 20px;
+        text-align: center;
+    }
+
+    #index-banner h1 {
+        font-size: 2rem;
+        line-height: 2.5rem;
+    }
+
+    #index-banner p {
+        font-size: 1rem;
+    }
+
+    .benefits-grid,
+    .promotion-grid {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .benefit,
+    .promotion,
+    .promotion2 {
+        width: 90% !important;
+    }
+
+    .cta-title {
+        font-size: 1.5rem;
+    }
+
+    .cta-subtitle {
+        font-size: 1rem;
+    }
+
+    .cta-button {
+        font-size: 1rem;
+        padding: 12px 20px;
+    }
+
+    .register-form {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .option {
+        margin: 20px 0;
+        width: 100%;
+    }
+
+    .card-image img {
+        height: 160px;
+    }
+
+    footer .row {
+        flex-direction: column;
+        text-align: center;
+    }
+
+    footer .col {
+        margin-bottom: 20px;
+    }
+}
